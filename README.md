@@ -1,6 +1,3 @@
-Sure, here's a possible GitHub repository description for a bootcamp using the Python Selenium library:
-Python Selenium Bootcamp
-
 Welcome to the Python Selenium Bootcamp repository! In this bootcamp, you will learn how to use the Selenium library in Python to automate web browser interactions and perform tasks such as web scraping and automated testing.
 What is Selenium?
 
