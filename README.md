@@ -36,3 +36,6 @@ This bootcamp is self-paced and consists of a series of Python notebooks. Each n
 Get started
 
 To get started with the bootcamp, simply clone this repository and open the notebooks in your Python environment. Happy learning!
+
+# Courses will be uploaded at regular intervals. Stay tuned.
+
