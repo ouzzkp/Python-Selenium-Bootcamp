@@ -69,5 +69,28 @@ krediler.append("Taşıt kredisi") #add "Taşıt kredisi" to last
 print(krediler) 
 krediler.remove("Taşıt kredisi") #remove first item that name is "Taşıt kredisi"
 print(krediler)
+# we can add more than one members at list in same time
 
+krediler.extend(["ilk kredi","ikinci kredi"])
+print(krediler)
 
+# ------- For Loop -------
+sayi = 0
+for i in range(10):
+    sayi += 1
+    print(i) 
+print(sayi)
+print("**************")
+for i in range(5,10):
+    print(i)
+print("**************")
+for i in range(0,51,10):
+    print(i)
+
+for kredi in krediler:
+    print(kredi)
+#you can do this also:
+
+for i in range(len(krediler)):
+    print(krediler[i])
+    
